@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "service_id": "lp",
+  "endpoints": [
+    {
+      "port": 8080,
+      "protocol": "http",
+      "expose": "host",
+      "public_port": null,
+      "health_path": "/healthz"
+    }
+  ]
+}
