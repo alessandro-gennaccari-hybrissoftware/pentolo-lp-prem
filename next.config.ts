@@ -16,8 +16,6 @@ const withNextIntl = createNextIntlPlugin({
   },
 })
 
-const config: NextConfig = {
-  output: "standalone",
-}
+const config: NextConfig = {}
 
 export default withNextIntl(config)
