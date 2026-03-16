@@ -1,0 +1,159 @@
+{
+  "Manifest": {
+    "name": "Pentolo® Premium & Superior",
+    "short_name": "Pentolo®",
+    "description": "Pentolo® Sometimes the right size is all it takes to make a difference. Compact show cooking, same intensity. When the space is more intimate, so is the conviviality."
+  },
+  "LocaleLayout": {
+    "siteName": "Pentolo® Premium & Superior",
+    "applicationName": "Pentolo® Premium & Superior",
+    "author": "",
+    "publisher": ""
+  },
+
+  "Error": {
+    "title": "Something went wrong!",
+    "description": "<p>We've unfortunately encountered an error.</p><p>You can try to <retry>reload the page</retry> you were visiting.</p>",
+    "cta": "Back to Home"
+  },
+  "LanguageDropdown": {
+    "label": "Change language",
+    "locale": "{locale, select, en {English} it {Italian} other {Unknown}}"
+  },
+  "Navigation": {
+    "home": "Home",
+    "example": "Example"
+  },
+  "NotFound": {
+    "title": "Page not found",
+    "description": "Please double-check the browser address bar or use the navigation to go to a known page.",
+    "cta": "Back to Home"
+  },
+
+  "IndexPage": {
+    "meta": {
+      "description": "Pentolo® Premium & Superior. Compact show cooking, same intensity. When the space is more intimate, so is the conviviality.",
+      "keywords": "pentolo premium, pentolo superior, show cooking, catering, events, cuisine, spectacle, giant pan, wedding",
+      "ogTitle": "Pentolo® Premium & Superior. Sometimes the right size is all it takes to make a difference",
+      "ogDescription": "Compact show cooking, same intensity. When the space is more intimate, so is the conviviality.",
+      "ogImageAlt": "Pentolo® Premium & Superior preview"
+    },
+
+    "hero": {
+      "titleStart": "Sometimes the right size is all it takes to make a difference.",
+      "titleEnd": "Compact show cooking, same intensity.",
+      "description": "When the space is more intimate, so is the conviviality."
+    },
+
+    "heartOfEvent": {
+      "title": "Everyone around your kitchen",
+      "p1": "Pentolo is designed to create connection.",
+      "p2a": "It's not the size that makes the difference.",
+      "p2b": "It's the movement.",
+      "p3a": "It's the gesture.",
+      "p3b": "It's the presence.",
+      "p3c": "With its original tilting system and stainless steel structure, every preparation becomes part of the show.",
+      "p4": "Whether you choose a more compact or more generous size, cooking no longer stays behind the scenes.",
+      "p5": "It becomes the center."
+    },
+
+    "twoDimensions": {
+      "sectionTitle": "TWO SIZES, SAME INTENSITY"
+    },
+
+    "superior": {
+      "diameter": "Ø 50 cm",
+      "productTitle": "Pentolo SUPERIOR",
+      "subtitle": "The right size when space is part of the experience.",
+      "bullet1": "Up to 50/60 guests",
+      "bullet2": "Perfect for terraces and gardens",
+      "bullet3": "Easy installation",
+      "bullet4": "More intimate and cozy atmosphere",
+      "cta": "BUY Pentolo Superior"
+    },
+
+    "premium": {
+      "diameter": "Ø 80 cm",
+      "productTitle": "Pentolo PREMIUM",
+      "subtitle": "The new dimension of your parties.",
+      "bullet1": "Up to 100 guests",
+      "bullet2": "Greater scenic presence",
+      "bullet3": "Ideal for villas with large spaces",
+      "bullet4": "Total engagement",
+      "cta": "BUY Pentolo Premium"
+    },
+
+    "comparison": {
+      "title": "Choose the size of your experience",
+      "subtitle": "Two configurations. Same quality.",
+      "colFeatures": "Features",
+      "rowDiameter": "Diameter",
+      "rowGuests": "Ideal Guests",
+      "rowInstallation": "Installation",
+      "rowExperience": "Experience",
+      "rowIdealFor": "Ideal for",
+      "rowPrice": "Price",
+      "superiorDiameter": "Ø 70 cm",
+      "superiorGuests": "Up to 50/60",
+      "superiorInstallation": "Agile and versatile",
+      "superiorExperience": "Balanced",
+      "superiorIdealFor": "Private dinners, family parties",
+      "superiorPrice": "€ 1,290.00",
+      "premiumDiameter": "Ø 80 cm",
+      "premiumGuests": "Up to 100",
+      "premiumInstallation": "Dominant structure",
+      "premiumExperience": "All-encompassing",
+      "premiumIdealFor": "Events, parties, major celebrations",
+      "premiumPrice": "€ 2,190.00",
+      "vatIncluded": "VAT included",
+      "ctaBuy": "BUY"
+    },
+
+    "features": {
+      "titleLine1": "Functional,",
+      "titleLine2": "Versatile, Essential",
+      "description": "Designed to last and to be the stars of the show."
+    },
+
+    "bothVersions": {
+      "title": "Both versions combine:",
+      "bullet1": "100% Italian design",
+      "bullet2": "Scenic tilting system",
+      "bullet3": "Professional stainless steel",
+      "bullet4": "Italian patent",
+      "bullet5": "CEE certification"
+    },
+
+    "ad": {
+      "first": "The table is the heart",
+      "firstPartTwo": "of conviviality.",
+      "second": "Choose your size.",
+      "third": "Bring it to the center."
+    },
+
+    "videoFallback": "Your browser does not support the video.",
+
+    "powerAndScenography": {
+      "title": "Power and scenography",
+      "intro": "Thanks to its generous 120 cm size:",
+      "bullet1": "You can cook up to 120 servings at once",
+      "bullet2": "Engage your guests in a real cooking show",
+      "bullet3": "Turn an everyday gesture into a collective experience",
+      "structure": "The stainless steel structure, tilting system, and CEE certification ensure solidity, safety, and reliability.",
+      "highlight": "It is a tool designed to be the protagonist."
+    },
+
+    "cta": "Learn more",
+
+    "bigThings": {
+      "title": "For those who love to do things",
+      "titleItalic": " big",
+      "idealFor": "Ideal for",
+      "idealForDescription": "For those who don't just want to organize an event, but create a moment to remember.",
+      "bullet1": "Major events and large private parties",
+      "bullet2": "Weddings",
+      "bullet3": "Resorts and Villas",
+      "bullet4": "Catering"
+    }
+  }
+}

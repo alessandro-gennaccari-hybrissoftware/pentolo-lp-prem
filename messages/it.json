@@ -1,0 +1,159 @@
+{
+  "Manifest": {
+    "name": "Pentolo® Premium & Superior",
+    "short_name": "Pentolo®",
+    "description": "Pentolo® A volte basta la misura giusta per fare la differenza. Show cooking compatto, stessa intensità. Quando lo spazio è più raccolto, la convivialità diventa ancora più intima."
+  },
+  "LocaleLayout": {
+    "siteName": "Pentolo® Premium & Superior",
+    "applicationName": "Pentolo® Premium & Superior",
+    "author": "",
+    "publisher": ""
+  },
+
+  "Error": {
+    "title": "Qualcosa è andato storto!",
+    "description": "<p>Purtroppo si è verificato un errore.</p><p>Puoi provare a <retry>ricaricare la pagina</retry> che stavi visitando.</p>",
+    "cta": "Torna alla Home"
+  },
+  "LanguageDropdown": {
+    "label": "Cambia lingua",
+    "locale": "{locale, select, en {Inglese} it {Italiano} other {Sconosciuto}}"
+  },
+  "Navigation": {
+    "home": "Home",
+    "example": "Esempio"
+  },
+  "NotFound": {
+    "title": "Pagina non trovata",
+    "description": "Controlla l'indirizzo nella barra del browser o usa la navigazione per andare a una pagina conosciuta.",
+    "cta": "Torna alla Home"
+  },
+
+  "IndexPage": {
+    "meta": {
+      "description": "Pentolo® Premium & Superior. Show cooking compatto, stessa intensità. Quando lo spazio è più raccolto, la convivialità diventa ancora più intima.",
+      "keywords": "pentolo premium, pentolo superior, show cooking, catering, eventi, cucina, spettacolo, padella gigante, wedding",
+      "ogTitle": "Pentolo® Premium & Superior. A volte basta la misura giusta per fare la differenza",
+      "ogDescription": "Show cooking compatto, stessa intensità. Quando lo spazio è più raccolto, la convivialità diventa ancora più intima.",
+      "ogImageAlt": "Anteprima Pentolo® Premium & Superior"
+    },
+
+    "hero": {
+      "titleStart": "A volte basta la misura giusta per fare la differenza.",
+      "titleEnd": "Show cooking compatto, stessa intensità.",
+      "description": "Quando lo spazio è più raccolto, la convivialità diventa ancora più intima."
+    },
+
+    "heartOfEvent": {
+      "title": "Tutti attorno alla tua cucina",
+      "p1": "Il Pentolo è pensato per creare connessione.",
+      "p2a": "Non è la dimensione a fare la differenza.",
+      "p2b": "È il movimento.",
+      "p3a": "È il gesto.",
+      "p3b": "È la presenza.",
+      "p3c": "Con il suo sistema basculante originale e la struttura in acciaio inox, ogni preparazione diventa parte dello spettacolo.",
+      "p4": "Che tu scelga una dimensione più raccolta o più generosa, la cucina non resta dietro le quinte.",
+      "p5": "Diventa il centro."
+    },
+
+    "twoDimensions": {
+      "sectionTitle": "DUE DIMENSIONI, STESSA INTENSITÀ"
+    },
+
+    "superior": {
+      "diameter": "Ø 50 cm",
+      "productTitle": "Pentolo SUPERIOR",
+      "subtitle": "La misura giusta quando lo spazio è parte dell'esperienza.",
+      "bullet1": "Fino a 50/60 ospiti",
+      "bullet2": "Perfetta per terrazze e giardini",
+      "bullet3": "Installazione agile",
+      "bullet4": "Atmosfera più intima e raccolta",
+      "cta": "ACQUISTA Pentolo Superior"
+    },
+
+    "premium": {
+      "diameter": "Ø 80 cm",
+      "productTitle": "Pentolo PREMIUM",
+      "subtitle": "La nuova dimensione delle tue feste.",
+      "bullet1": "Fino a 100 ospiti",
+      "bullet2": "Presenza scenica più ampia",
+      "bullet3": "Ideale per ville con grandi spazi",
+      "bullet4": "Coinvolgimento totale",
+      "cta": "ACQUISTA Pentolo Premium"
+    },
+
+    "comparison": {
+      "title": "Scegli la dimensione della tua esperienza",
+      "subtitle": "Due configurazioni. Stessa qualità.",
+      "colFeatures": "Caratteristiche",
+      "rowDiameter": "Diametro",
+      "rowGuests": "Ospiti Ideali",
+      "rowInstallation": "Installazione",
+      "rowExperience": "Esperienza",
+      "rowIdealFor": "Ideale per",
+      "rowPrice": "Prezzo",
+      "superiorDiameter": "Ø 70 cm",
+      "superiorGuests": "Fino a 50/60",
+      "superiorInstallation": "Agile e versatile",
+      "superiorExperience": "Equilibrata",
+      "superiorIdealFor": "Cene private, feste familiari",
+      "superiorPrice": "€ 1290,00",
+      "premiumDiameter": "Ø 80 cm",
+      "premiumGuests": "Fino a 100",
+      "premiumInstallation": "Struttura dominante",
+      "premiumExperience": "Totalizzante",
+      "premiumIdealFor": "Eventi, party, celebrazioni importanti",
+      "premiumPrice": "€ 2190,00",
+      "vatIncluded": "Iva inclusa",
+      "ctaBuy": "ACQUISTA"
+    },
+
+    "features": {
+      "titleLine1": "Funzionale,",
+      "titleLine2": "Versatile, Essenziale",
+      "description": "Sono pensate per durare e per essere protagoniste."
+    },
+
+    "bothVersions": {
+      "title": "Entrambe le versioni uniscono:",
+      "bullet1": "Design italiano 100%",
+      "bullet2": "Sistema basculante scenografico",
+      "bullet3": "Acciaio inox professionale",
+      "bullet4": "Brevetto italiano",
+      "bullet5": "Certificazione CEE"
+    },
+
+    "ad": {
+      "first": "La tavola è il cuore",
+      "firstPartTwo": "della convivialità.",
+      "second": "Scegli la tua dimensione.",
+      "third": "Portala al centro."
+    },
+
+    "videoFallback": "Il tuo browser non supporta il video.",
+
+    "powerAndScenography": {
+      "title": "Potenza e scenografia",
+      "intro": "Grazie alla sua generosa dimensione da 120 cm:",
+      "bullet1": "Puoi cucinare fino a 120 porzioni contemporaneamente",
+      "bullet2": "Coinvolgere gli ospiti in un vero cooking show",
+      "bullet3": "Trasformare un gesto quotidiano in esperienza collettiva",
+      "structure": "La struttura in acciaio inox, il sistema basculante e la certificazione CEE garantiscono solidità, sicurezza e continuità.",
+      "highlight": "È uno strumento progettato per essere protagonista."
+    },
+
+    "cta": "Scopri di più",
+
+    "bigThings": {
+      "title": "Per chi ama fare le cose",
+      "titleItalic": " in grande",
+      "idealFor": "Ideale per",
+      "idealForDescription": "Per chi non vuole semplicemente organizzare un evento, ma creare un momento da ricordare.",
+      "bullet1": "Eventi importanti e grandi feste private",
+      "bullet2": "Wedding",
+      "bullet3": "Resort e Ville",
+      "bullet4": "Catering"
+    }
+  }
+}
