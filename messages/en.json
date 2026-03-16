@@ -21,8 +21,7 @@
     "locale": "{locale, select, en {English} it {Italian} other {Unknown}}"
   },
   "Navigation": {
-    "home": "Home",
-    "example": "Example"
+    "home": "Home"
   },
   "NotFound": {
     "title": "Page not found",
